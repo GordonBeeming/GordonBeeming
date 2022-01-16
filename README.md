@@ -6,5 +6,5 @@
 - 🐤 I'm on Twitter as [@GordonBeeming](https://twitter.com/GordonBeeming) 
 - 📺 and YouTube [Gordon Beeming - Tech](https://www.youtube.com/channel/UCK-ytrN_3eKHNkQQYligVHQ)
 - 💬 Ask me about Azure DevOps or GitHub
-- 📫 How to reach me: [profile.gordonbeeming.xyz](https://profile.gordonbeeming.xyz/)
+- 📫 How to reach me: [devstarops.com](https://devstarops.com/)
 - 😄 Pronouns: he/him/his
