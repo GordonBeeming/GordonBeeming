@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on posts and videos around tips a tricks to make your applications run better
+- 🔭 I'm currently working on posts and videos around tips and tricks to make your applications run better
 - 🌱 I'm currently learning more about Security
 - 👯 I'm looking to collaborate on tooling to help our community grow
 - 🐤 I'm on Twitter as [@GordonBeeming](https://twitter.com/GordonBeeming) 
