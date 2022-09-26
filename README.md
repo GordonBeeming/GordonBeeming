@@ -13,6 +13,16 @@
 
 ## GitHub Stats
 
-[![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=swift&count_private=true#gh-light-mode-only)![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=github_dark&count_private=true#gh-dark-mode-only)](https://github.com/devstarops)
+<a href='https://github.com/devstarops'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=swift&count_private=true">
+    <img alt="DevStarOps's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=github_dark&count_private=true">
+  </picture>
+</a>
 
-[![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=swift&layout=compact#gh-light-mode-only)![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/devstarops)
+<a href='https://github.com/devstarops'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=swift&layout=compact">
+    <img alt="DevStarOps's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=github_dark&layout=compact">
+  </picture>
+</a>
