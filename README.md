@@ -10,3 +10,9 @@
 - 📫 How to reach me: [devstarops.com](https://devstarops.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gordonbeeming?style=social)
+
+## GitHub Stats
+
+[![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=swift&count_private=true#gh-light-mode-only)![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=github_dark&count_private=true#gh-dark-mode-only)](https://github.com/devstarops)
+
+[![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=swift&layout=compact#gh-light-mode-only)![DevStarOps's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/devstarops)
