@@ -7,7 +7,7 @@
 - 🐤 I'm on Twitter as [@GordonBeeming](https://twitter.com/GordonBeeming) 
 - 📺 and YouTube [@gordonbeeming](https://www.youtube.com/@gordonbeeming)
 - 💬 Ask me about Azure DevOps or GitHub
-- 📫 How to reach me: [devstarops.com](https://devstarops.com/)
+- 📫 How to reach me: [gordonbeeming.com](https://gordonbeeming.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gordonbeeming?style=social)
 
