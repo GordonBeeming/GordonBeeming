@@ -5,7 +5,7 @@
 - 👯 I'm looking to collaborate on tooling to help our community grow
 - ⭐ I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000879) for DevOps since 2014
 - 🐤 I'm on Twitter as [@GordonBeeming](https://twitter.com/GordonBeeming) 
-- 📺 and YouTube [Dev⭐Ops](https://www.youtube.com/c/DevStarOps)
+- 📺 and YouTube [@gordonbeeming](https://www.youtube.com/@gordonbeeming)
 - 💬 Ask me about Azure DevOps or GitHub
 - 📫 How to reach me: [devstarops.com](https://devstarops.com/)
 
