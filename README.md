@@ -15,14 +15,14 @@
 
 <a href='https://github.com/devstarops'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=swift&count_private=true">
-    <img alt="DevStarOps's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevStarOps&show_icons=true&theme=github_dark&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gordonbeeming&show_icons=true&theme=swift&count_private=true">
+    <img alt="DevStarOps's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gordonbeeming&show_icons=true&theme=github_dark&count_private=true">
   </picture>
 </a>
 
 <a href='https://github.com/devstarops'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=swift&layout=compact">
-    <img alt="DevStarOps's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevStarOps&theme=github_dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonbeeming&theme=swift&layout=compact">
+    <img alt="DevStarOps's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonbeeming&theme=github_dark&layout=compact">
   </picture>
 </a>
