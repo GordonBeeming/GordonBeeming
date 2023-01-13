@@ -13,16 +13,16 @@
 
 ## GitHub Stats
 
-<a href='https://github.com/devstarops'>
+<a href='https://github.com/gordonbeeming'>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gordonbeeming&show_icons=true&theme=swift&count_private=true">
-    <img alt="DevStarOps's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gordonbeeming&show_icons=true&theme=github_dark&count_private=true">
+    <img alt="gordonbeeming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gordonbeeming&show_icons=true&theme=github_dark&count_private=true">
   </picture>
 </a>
 
-<a href='https://github.com/devstarops'>
+<a href='https://github.com/gordonbeeming'>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonbeeming&theme=swift&layout=compact">
-    <img alt="DevStarOps's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonbeeming&theme=github_dark&layout=compact">
+    <img alt="gordonbeeming's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonbeeming&theme=github_dark&layout=compact">
   </picture>
 </a>
