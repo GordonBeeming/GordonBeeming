@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/-@GordonBeeming-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gordonbeeming)](https://github.com/gordonbeeming)
+[![](https://img.shields.io/badge/-@GordonBeeming-1a8cd8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/GordonBeeming)](https://twitter.com/GordonBeeming)
+[![](https://img.shields.io/badge/-Gordon%20Beeming-0a65c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gordon-beeming/)](https://www.linkedin.com/in/gordon-beeming/)
+[![](https://img.shields.io/badge/-@GordonBeeming-fe0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@gordonbeeming)](https://www.youtube.com/@gordonbeeming)
+
 - 🔭 I'm currently working on posts and videos around tips and tricks to make your applications run better
 - 🌱 I'm currently learning more about Security
 - 👯 I'm looking to collaborate on tooling to help our community grow
@@ -8,8 +13,6 @@
 - 📺 and YouTube [@gordonbeeming](https://www.youtube.com/@gordonbeeming)
 - 💬 Ask me about Azure DevOps or GitHub
 - 📫 How to reach me: [gordonbeeming.com](https://gordonbeeming.com/)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/gordonbeeming?style=social)
 
 ## GitHub Stats
 
