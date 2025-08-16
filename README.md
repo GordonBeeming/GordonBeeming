@@ -31,6 +31,20 @@
   </picture>
 </a>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+Thanks @cyprieng for [github-breakout](https://github.com/cyprieng/github-breakout) above
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/gordonbeeming"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
