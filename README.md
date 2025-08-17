@@ -43,7 +43,7 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-Thanks @cyprieng for [github-breakout](https://github.com/cyprieng/github-breakout) above
+Thanks [@cyprieng](https://github.com/cyprieng) for [github-breakout](https://github.com/cyprieng/github-breakout) above
 
 ### Support Me
 
