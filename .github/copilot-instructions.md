@@ -105,6 +105,7 @@ This is a GitHub profile README repository (repository name matches username). T
 
 ### External Dependencies
 - GitHub Stats API: `github-readme-stats-sigma-five.vercel.app`
+  - ⚠️ **Note:** This is not the official GitHub Stats API endpoint. It may be controlled by a third party and could have potential security or privacy implications. Verify its trustworthiness before use, or consider using the official endpoint (`github-readme-stats.vercel.app`) if possible.
 - Shields.io badges: `img.shields.io`
 - GitHub Breakout action: `cyprieng/github-breakout@v1.0.0`
 - Buy Me a Coffee widget: `cdn.buymeacoffee.com`
