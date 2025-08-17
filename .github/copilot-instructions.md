@@ -30,6 +30,7 @@ This is a GitHub profile README repository (repository name matches username). T
 - **Manual trigger**: Can be triggered via workflow_dispatch
 - **Timeout**: 5 minutes (set in workflow)
 - **Dependencies**: Uses `cyprieng/github-breakout@v1.0.0` action
+  - **Security Note**: For security, always verify the source of third-party GitHub Actions and consider pinning to a specific commit hash (e.g., `cyprieng/github-breakout@<commit-sha>`) instead of a tag. This helps prevent supply chain attacks if the tag is moved or updated with malicious code.
 - **Output**: Creates/updates `images/breakout-light.svg` and `images/breakout-dark.svg`
 - **Auto-commit**: Workflow automatically commits generated SVG files
 
