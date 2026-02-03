@@ -31,6 +31,10 @@
   </picture>
 </a>
 
+![My GitHub Game](game.gif)
+
+Thanks [@czl9707](https://github.com/czl9707) for [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) above
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -44,10 +48,6 @@
 </picture>
 
 Thanks [@cyprieng](https://github.com/cyprieng) for [github-breakout](https://github.com/cyprieng/github-breakout) above
-
-![My GitHub Game](game.gif)
-
-Thanks [@czl9707](https://github.com/czl9707) for [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) above
 
 ### Support Me
 
