@@ -1,0 +1,103 @@
+name: Generate README stats cards
+
+on:
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/generate-readme-stats.yml
+      - README.md
+  pull_request:
+    paths:
+      - .github/workflows/generate-readme-stats.yml
+      - README.md
+
+permissions:
+  contents: read
+
+concurrency:
+  group: readme-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
+        with:
+          persist-credentials: false
+
+      - name: Generate light stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=gordonbeeming&show_icons=true
+          path: profile/stats-light.svg
+          core_version: '' # Use the action's bundled renderer and frozen lockfile.
+          fail_on_error: 'true'
+
+      - name: Generate dark stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=gordonbeeming&show_icons=true&theme=dark
+          path: profile/stats-dark.svg
+          core_version: ''
+          fail_on_error: 'true'
+
+      - name: Generate light languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=gordonbeeming&layout=compact
+          path: profile/top-langs-light.svg
+          core_version: ''
+          fail_on_error: 'true'
+
+      - name: Generate dark languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=gordonbeeming&layout=compact&theme=dark
+          path: profile/top-langs-dark.svg
+          core_version: ''
+          fail_on_error: 'true'
+
+      - name: Upload generated cards
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: readme-stats-cards
+          path: profile/*.svg
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    needs: generate
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
+        with:
+          persist-credentials: false
+
+      - name: Download generated cards
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          name: readme-stats-cards
+          path: profile
+
+      - name: Publish cards to the assets branch
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gb/chore/profile-cards
+          publish_dir: ./profile
+          full_commit_message: Update README stats cards
