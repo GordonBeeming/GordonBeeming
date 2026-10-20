@@ -19,15 +19,15 @@
 
 <a href='https://github.com/gordonbeeming'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gordonbeeming&show_icons=true&count_private=true">
-    <img alt="gordonbeeming's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gordonbeeming&show_icons=true&theme=dark&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GordonBeeming/GordonBeeming/refs/heads/gb/chore/profile-cards/stats-light.svg">
+    <img alt="gordonbeeming's GitHub Stats" src="https://raw.githubusercontent.com/GordonBeeming/GordonBeeming/refs/heads/gb/chore/profile-cards/stats-dark.svg">
   </picture>
 </a>
 
 <a href='https://github.com/gordonbeeming'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gordonbeeming&layout=compact">
-    <img alt="gordonbeeming's GitHub Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gordonbeeming&theme=dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GordonBeeming/GordonBeeming/refs/heads/gb/chore/profile-cards/top-langs-light.svg">
+    <img alt="gordonbeeming's GitHub Top Languages" src="https://raw.githubusercontent.com/GordonBeeming/GordonBeeming/refs/heads/gb/chore/profile-cards/top-langs-dark.svg">
   </picture>
 </a>
 
