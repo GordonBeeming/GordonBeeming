@@ -10,8 +10,9 @@ Father · Husband · Triathlete · [SSW Solution Architect](https://www.ssw.com.
 ## Featured projects
 
 <!-- FEATURED-PROJECTS:START -->
-- [copilot_here](https://gordonbeeming.com/projects/copilot-here) — Secure, portable CLI wrapper for GitHub Copilot CLI that runs inside a sandboxed Docker container.
-- [Insomnia](https://gordonbeeming.com/projects/insomnia) — macOS caffeinate utility that keeps your Mac awake.
+- [ClaudeBar](https://gordonbeeming.com/projects/claude-bar) — Your Claude usage limits in the macOS menu bar, in your timezone.
+- [CodexBar](https://gordonbeeming.com/projects/codex-bar) — Your Codex usage limits in the macOS menu bar, in your timezone.
+- [MyTerm](https://gordonbeeming.com/projects/myterm) — An opinionated native macOS terminal for people who keep several projects open all day.
 <!-- FEATURED-PROJECTS:END -->
 
 [All projects](https://gordonbeeming.com/projects)
@@ -19,9 +20,9 @@ Father · Husband · Triathlete · [SSW Solution Architect](https://www.ssw.com.
 ## Latest posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Developer Tech · W03](https://gordonbeeming.com/blog/2026-10-22/this-week-in-developer-tech-w03)
 - [This Week in Developer Tech · W02](https://gordonbeeming.com/blog/2026-10-15/this-week-in-developer-tech-w02)
 - [Getting mouse clicks working in Claude Code](https://gordonbeeming.com/blog/2026-10-09/claude-code-mouse-clicks-need-the-fullscreen-renderer)
-- [This Week in Developer Tech · W01](https://gordonbeeming.com/blog/2026-10-08/this-week-in-developer-tech-w01)
 <!-- BLOG-POSTS:END -->
 
 [More writing](https://gordonbeeming.com/blog)
