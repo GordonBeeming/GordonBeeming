@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Gordon Beeming&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 247, Total Commits  (last year) : 1599, Total PRs: 1140, Total Issues: 427, Contributed to (last year): 12</desc>
+        <title id="titleId">Gordon Beeming [SSW]&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 247, Total Commits  (last year) : 1572, Total PRs: 1142, Total Issues: 439, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.488067233225348;
+        stroke-dashoffset: 16.526688191092838;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Gordon Beeming&#39;s GitHub Stats</text>
+      >Gordon Beeming [SSW]&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >427</text>
+      >439</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
