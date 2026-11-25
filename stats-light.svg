@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gordon Beeming [SSW]&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 248, Total Commits  (last year) : 1592, Total PRs: 1195, Total Issues: 464, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 248, Total Commits  (last year) : 1593, Total PRs: 1195, Total Issues: 466, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.467538751207243;
+        stroke-dashoffset: 16.4661316791334;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >464</text>
+      >466</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
